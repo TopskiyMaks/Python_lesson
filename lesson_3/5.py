@@ -17,3 +17,4 @@ while k < N:
     k += 1
 
 print(index + 1, ':', arr[index])
+
